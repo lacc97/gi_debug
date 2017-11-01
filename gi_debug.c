@@ -7,7 +7,6 @@
     distributed under the MIT license; see the "LICENSE" file.
 */
 
-#include "glk.h"
 #include "gi_debug.h"
 
 #ifndef NULL
